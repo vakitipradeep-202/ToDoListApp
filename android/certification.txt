@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the To-DoList 1.0
+---------------------------------------------------
+
+app_name - 						To-DoList
+app_alias - 					todolist
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Telangana
+app_author_country - 			India
+app_password - 					PZ0bVKuxv5JX
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Wednesday 14th of October 2026 05:55:09 PM
+
+https://webintoapp.com
+---------------------------------------------------
+
